@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full-Stack Developer | Problem Solver | Tech Enthusiast**
+  **💻 AI/ML ENGINEER | Software Developer | CLOUD ENGINEER | Open to global opportunities  **
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarankhil19286@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankhil-kumar-82188a29b)
@@ -52,18 +52,6 @@ in enterprise environments
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ankhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankhil140&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankhil140&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
