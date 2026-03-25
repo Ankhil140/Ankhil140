@@ -6,7 +6,7 @@
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarankhil19286@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankhil-kumar-82188a29b)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:7482019991)
+  
   
 </div>
 
@@ -59,12 +59,52 @@ in enterprise environments
 
 ## 🎯 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Project 1](link)** | Description of your project | Java, Spring Boot, MySQL |
-| **[Project 2](link)** | Description of your project | React, Node.js, MongoDB |
-| **[Project 3](link)** | Description of your project | Python, Django, PostgreSQL |
+### 1. 🏏 **IPL Stats Analyser & Predictor**
+**Live Link:** [https://github.com/Ankhil140/IPL-Advanced-Analytics](https://github.com/Ankhil140/IPL-Advanced-Analytics)
 
+An advanced **serverless data analytics application** that predicts Indian Premier League (IPL) match outcomes using machine learning.
+
+**Key Features:**
+- 🤖 **Scikit-Learn Random Forest Classifier** for accurate match predictions
+- ⚡ **Vercel Serverless Backend** with FastAPI for lightning-fast APIs
+- 📊 **Real-Time Live Hub** using BeautifulSoup4 for live score scraping
+- 📈 **Dataset Synchronization** from Kaggle for continuous ML model improvements
+- 🎯 **Custom HTML/JS Frontend** with fast async REST queries (no WebSockets needed)
+
+**Tech Stack:** Python • FastAPI • Scikit-Learn • Pandas • BeautifulSoup4 • HTML5/CSS3/JS
+
+---
+
+### 2. ⌨️ **TypeSpeed Pro — Java Typing Speed Calculator**
+**GitHub:** [https://github.com/Ankhil140/TypeSpeed-Pro](https://github.com/Ankhil140/TypeSpeed-Pro)
+
+A beautiful, **feature-complete typing speed calculator** built with Java Swing and database integration.
+
+**Key Features:**
+- ⚡ **Real-time WPM & Accuracy** tracking with live character error highlighting
+- 🎨 **Dark-themed UI** with multiple difficulty levels (Easy/Medium/Hard)
+- 📊 **Grade System** (S/A/B/C/D) based on performance metrics
+- 💾 **MySQL Persistence** with automatic H2 database fallback
+- 📈 **History Panel** for tracking all typing sessions
+- ⚙️ **Settings Panel** for MySQL connection configuration
+
+**Tech Stack:** Java Swing • MySQL • H2 Database • Custom UI Components
+
+---
+
+### 3. 🎞️ **Sortify — Image Organiser**
+**GitHub:** [https://github.com/Ankhil140/Sortify--Image-Organiser](https://github.com/Ankhil140/Sortify--Image-Organiser)
+
+An intelligent **image organization and sorting tool** that automates file management with advanced pixel sorting algorithms.
+
+**Key Features:**
+- 🖼️ **Automatic Image Classification** and organization
+- 🎨 **Pixel Sorting Algorithms** for advanced image manipulation
+- 🔄 **REST API Backend** for seamless integration
+- 📦 **Batch Processing** support for large image collections
+- 💡 **Configurable Organization** by date, type, and custom criteria
+
+**Tech Stack:** Python • PIL/Pillow • Flask/FastAPI • Image Processing Algorithms
 ---
 
 ## 🌱 Currently Learning
